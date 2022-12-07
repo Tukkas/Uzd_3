@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1670258447 source:d:\mokslai\codeblocks\uzduotis_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"uzd.h"
+
+1669987586 d:\mokslai\codeblocks\uzduotis_3\header.h
+
+1669988183 source:d:\mokslai\codeblocks\uzduotis_3\funkcijos.c
+	"header.h"
+
+1670258208 d:\mokslai\codeblocks\uzduotis_3\uzd.h
+
+1670258499 source:d:\mokslai\codeblocks\uzduotis_3\uzd.c
+	<stdio.h>
+	"uzd.h"
+
